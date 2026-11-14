@@ -1,0 +1,22 @@
+=== RANKING POSTACI RPG ===
+Miejsce  Nazwa      Rola             Siła
+1        Berserker  Szturmowiec     0.535 | średnia szansa: 64.0%
+2        Łotrzyk    Szturmowiec     0.511 | średnia szansa: 58.8%
+3        Paladyn    Obrońca         0.489 | średnia szansa: 54.0%
+4        Mag        Szturmowiec     0.475 | średnia szansa: 50.9%
+5        Łucznik    Wszechstronny   0.459 | średnia szansa: 47.3%
+6        Wojownik   Obrońca         0.454 | średnia szansa: 46.2%
+7        Strażnik   Obrońca         0.450 | średnia szansa: 45.3%
+8        Druid      Wszechstronny   0.395 | średnia szansa: 33.5%
+
+=== POSTACIE SPEŁNIAJĄCE WYMAGANIA ===
+Berserker
+
+=== STATYSTYKI GRUPY ===
+Cecha          Min  Średnia     Max
+HP            75.0    110.0   155.0
+Atak          18.0     32.0    44.0
+Obrona         6.0     14.0    26.0
+Szybkość       5.0     12.2    21.0
+
+Zapisano: raport_postaci.csv
